@@ -4,7 +4,8 @@
 
 # D-Emerald
 
-### Cyber Security Student | Aspiring Ethical Hacker & Bug Bounty Hunter
+### Cyber Security Student | **Aspiring Offensive Cloud Security Engineer & Security Auditor**
+
 
 </div>
 
