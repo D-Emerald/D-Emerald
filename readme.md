@@ -13,7 +13,7 @@
 
 ## About Me
 
-I'm a Cyber Security student working towards becoming an Offensive Cloud Security Engineer & Security Auditor, with a focus on ethical hacking, security testing, vulnerability research, cloud security, and GRC.
+I'm a Cyber Security student working towards becoming an Offensive Cloud Security Engineer & Security Auditor, with a current focus on ethical hacking, security testing, vulnerability research, cloud security, and GRC.
 
 I started my career as a mechanical plumber and, since 2022, I've traded blueprints and shifters for VMs, Kali, a mouse and keyboard, and the questionable decision to voluntarily test human and AI-built systems and applications instead of plumbing problems.
 
